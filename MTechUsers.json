@@ -1,0 +1,473 @@
+{
+  "SSchmitt": {
+    "Expiration": "9999-12-31T23:59:59",
+    "Tabs": [ "PIPE", "DUCT" ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:NWC Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Tagging",
+      "MT-PIPE:Admin",
+      "MT-PIPE:Stratus",
+      "MT-PIPE:AdminSS",
+      "MT-DUCT:Help",
+      "MT-DUCT:Export Tools",
+      "MT-DUCT:NWC Tools",
+      "MT-DUCT:Cleanup",
+      "MT-DUCT:View Style",
+      "MT-DUCT:Tagging",
+      "MT-DUCT:Admin"
+    ]
+  },
+  "17083": {
+    "Expiration": "9999-12-31T23:59:59",
+    "Tabs": [ "PIPE", "DUCT" ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:NWC Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Tagging",
+      "MT-PIPE:Admin",
+      "MT-PIPE:Stratus",
+      "MT-PIPE:AdminSS",
+      "MT-DUCT:Help",
+      "MT-DUCT:Export Tools",
+      "MT-DUCT:NWC Tools",
+      "MT-DUCT:Cleanup",
+      "MT-DUCT:View Style",
+      "MT-DUCT:Tagging",
+      "MT-DUCT:Admin"
+    ]
+  },
+  "Monar": {
+    "Expiration": "9999-12-31T23:59:59",
+    "Tabs": [ "PIPE", "DUCT", "TEST" ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:NWC Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Admin",
+      "MT-PIPE:AdminSS",
+      "MT-PIPE:Stratus",
+      "MT-DUCT:Help",
+      "MT-DUCT:Export Tools",
+      "MT-DUCT:NWC Tools",
+      "MT-DUCT:Cleanup",
+      "MT-DUCT:View Style",
+      "MT-DUCT:Tagging",
+      "MT-DUCT:Admin"
+    ]
+  },
+  "rschm": {
+    "Expiration": "9999-12-31T23:59:59",
+    "Tabs": [ "PIPE", "DUCT", "TEST" ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:NWC Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Admin",
+      "MT-PIPE:AdminSS",
+      "MT-PIPE:Stratus",
+      "MT-DUCT:Help",
+      "MT-DUCT:Export Tools",
+      "MT-DUCT:NWC Tools",
+      "MT-DUCT:Cleanup",
+      "MT-DUCT:View Style",
+      "MT-DUCT:Tagging",
+      "MT-DUCT:Admin"
+    ]
+  },
+  "ahebert": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "PIPE", "DUCT" ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:NWC Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Admin",
+      "MT-DUCT:Help",
+      "MT-DUCT:Export Tools",
+      "MT-DUCT:NWC Tools",
+      "MT-DUCT:Cleanup",
+      "MT-DUCT:View Style",
+      "MT-DUCT:Tagging",
+      "MT-DUCT:Admin"
+    ]
+  },
+  "brandon miller": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "PIPE", "DUCT" ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:NWC Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Admin",
+      "MT-DUCT:Help",
+      "MT-DUCT:Export Tools",
+      "MT-DUCT:NWC Tools",
+      "MT-DUCT:Cleanup",
+      "MT-DUCT:View Style",
+      "MT-DUCT:Tagging",
+      "MT-DUCT:Admin"
+    ]
+  },
+  "bmiller": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "PIPE", "DUCT" ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:NWC Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Admin",
+      "MT-DUCT:Help",
+      "MT-DUCT:Export Tools",
+      "MT-DUCT:NWC Tools",
+      "MT-DUCT:Cleanup",
+      "MT-DUCT:View Style",
+      "MT-DUCT:Tagging",
+      "MT-DUCT:Admin"
+    ]
+  },
+  "brandon.miller": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "PIPE", "DUCT" ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:NWC Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Admin",
+      "MT-DUCT:Help",
+      "MT-DUCT:Export Tools",
+      "MT-DUCT:NWC Tools",
+      "MT-DUCT:Cleanup",
+      "MT-DUCT:View Style",
+      "MT-DUCT:Tagging",
+      "MT-DUCT:Admin"
+    ]
+  },
+  "suman.dutta": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "PIPE", "DUCT" ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:NWC Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Admin",
+      "MT-DUCT:Help",
+      "MT-DUCT:Export Tools",
+      "MT-DUCT:NWC Tools",
+      "MT-DUCT:Cleanup",
+      "MT-DUCT:View Style",
+      "MT-DUCT:Tagging",
+      "MT-DUCT:Admin"
+    ]
+  },
+  "jasper.romero": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "PIPE", "DUCT" ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:NWC Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Admin",
+      "MT-DUCT:Help",
+      "MT-DUCT:Export Tools",
+      "MT-DUCT:NWC Tools",
+      "MT-DUCT:Cleanup",
+      "MT-DUCT:View Style",
+      "MT-DUCT:Tagging",
+      "MT-DUCT:Admin"
+    ]
+  },
+  "jason.huddleston": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "PIPE" ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:NWC Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Admin"
+    ]
+  },
+  "dmccoy": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "PIPE" ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:NWC Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Admin"
+    ]
+  },
+  "robert.kelley": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "PIPE" ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:NWC Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Admin"
+    ]
+  },
+  "nathan.zafuto": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "PIPE" ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:NWC Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Admin"
+    ]
+  },
+  "lgomez": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "PIPE" ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:NWC Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Admin"
+    ]
+  },
+  "cj.mengedoht": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "PIPE" ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:NWC Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Admin"
+    ]
+  },
+  "henry": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "PIPE" ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:NWC Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Admin"
+    ]
+  },
+  "Diondre.Tanner": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "PIPE" ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:NWC Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Admin"
+    ]
+  },
+  "Lewis": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "PIPE" ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:NWC Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Admin"
+    ]
+  },
+  "steven.kuretich": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "DUCT" ],
+    "Panels": [
+      "MT-DUCT:Help",
+      "MT-DUCT:Export Tools",
+      "MT-DUCT:NWC Tools",
+      "MT-DUCT:Cleanup",
+      "MT-DUCT:View Style",
+      "MT-DUCT:Tagging",
+      "MT-DUCT:Admin"
+    ]
+  },
+  "gstewart": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "DUCT" ],
+    "Panels": [
+      "MT-DUCT:Help",
+      "MT-DUCT:Export Tools",
+      "MT-DUCT:NWC Tools",
+      "MT-DUCT:Cleanup",
+      "MT-DUCT:View Style",
+      "MT-DUCT:Elevations",
+      "MT-DUCT:Spacing",
+      "MT-DUCT:Admin"
+    ]
+  },
+  "starango": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "DUCT" ],
+    "Panels": [
+      "MT-DUCT:Help",
+      "MT-DUCT:Export Tools",
+      "MT-DUCT:NWC Tools",
+      "MT-DUCT:Cleanup",
+      "MT-DUCT:View Style",
+      "MT-DUCT:Tagging",
+      "MT-DUCT:Admin"
+    ]
+  },
+  "erik.williams": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "DUCT" ],
+    "Panels": [
+      "MT-DUCT:Help",
+      "MT-DUCT:Export Tools",
+      "MT-DUCT:NWC Tools",
+      "MT-DUCT:Cleanup",
+      "MT-DUCT:View Style",
+      "MT-DUCT:Tagging",
+      "MT-DUCT:Admin"
+    ]
+  },
+  "lucas.martinez": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "PIPE" ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:NWC Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Admin"
+    ]
+  },
+  "crodriguez": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "PIPE", "DUCT" ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:NWC Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Admin",
+      "MT-PIPE:Stratus",
+      "MT-DUCT:Help",
+      "MT-DUCT:Export Tools",
+      "MT-DUCT:NWC Tools",
+      "MT-DUCT:Cleanup",
+      "MT-DUCT:View Style",
+      "MT-DUCT:Tagging",
+      "MT-DUCT:Admin"
+    ]
+  },
+  "zach.grassmick": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "PIPE" ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:NWC Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Admin"
+    ]
+  },
+  "nicholas.torres": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "" ],
+    "Panels": []
+  },
+  "guest": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [ "PIPE", "DUCT" ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-DUCT:Help",
+      "MT-DUCT:Export Tools",
+      "MT-DUCT:Cleanup",
+      "MT-DUCT:View Style",
+      "MT-DUCT:Tagging"
+    ]
+  }
+}
