@@ -360,7 +360,7 @@
   },
   "gstewart": {
     "Expiration": "2026-12-31T00:00:00",
-    "Tabs": [ "DUCT" ],
+    "Tabs": [ "Pipe", "DUCT" ],
     "Panels": [
       "MT-PIPE:Help",
       "MT-PIPE:Export Tools",
