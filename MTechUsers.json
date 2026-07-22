@@ -1,28 +1,4 @@
 {
-  "SSchmitt": {
-    "Expiration": "9999-12-31T23:59:59",
-    "Tabs": [ "PIPE", "DUCT" ],
-    "Panels": [
-      "MT-PIPE:Help",
-      "MT-PIPE:Export Tools",
-      "MT-PIPE:NWC Tools",
-      "MT-PIPE:Cleanup",
-      "MT-PIPE:View Style",
-      "MT-PIPE:Elevations",
-      "MT-PIPE:Spacing",
-      "MT-PIPE:Tagging",
-      "MT-PIPE:Admin",
-      "MT-PIPE:Stratus",
-      "MT-PIPE:AdminSS",
-      "MT-DUCT:Help",
-      "MT-DUCT:Export Tools",
-      "MT-DUCT:NWC Tools",
-      "MT-DUCT:Cleanup",
-      "MT-DUCT:View Style",
-      "MT-DUCT:Tagging",
-      "MT-DUCT:Admin"
-    ]
-  },
   "17083": {
     "Expiration": "9999-12-31T23:59:59",
     "Tabs": [ "PIPE", "DUCT" ],
