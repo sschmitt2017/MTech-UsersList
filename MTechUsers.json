@@ -9,6 +9,7 @@
     "MT-PIPE:Cleanup",
     "MT-PIPE:View Style",
     "MT-PIPE:Elevations",
+    "MT-PIPE:Elbow Directions";
     "MT-PIPE:Spacing",
     "MT-PIPE:Tagging",
     "MT-PIPE:Admin",
@@ -33,6 +34,7 @@
       "MT-PIPE:Cleanup",
       "MT-PIPE:View Style",
       "MT-PIPE:Elevations",
+      "MT-PIPE:Elbow Directions";
       "MT-PIPE:Spacing",
       "MT-PIPE:Tagging",
       "MT-PIPE:Admin",
