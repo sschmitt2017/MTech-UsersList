@@ -28,7 +28,7 @@
       "MT-DUCT:Tagging",
       "MT-DUCT:Admin"
     ],
-    "ShowStratusClosePrompt": true
+    "ShowStratusClosePrompt": false
   },
   "17083": {
     "Expiration": "9999-12-31T23:59:59",
