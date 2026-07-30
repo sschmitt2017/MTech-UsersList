@@ -123,6 +123,31 @@
     ],
     "ShowStratusClosePrompt": false
   },
+  "suman.dutta": {
+    "Expiration": "2026-12-31T00:00:00",
+    "Tabs": [
+      "PIPE",
+      "DUCT"
+    ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:NWC Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Admin",
+      "MT-DUCT:Help",
+      "MT-DUCT:Export Tools",
+      "MT-DUCT:NWC Tools",
+      "MT-DUCT:Cleanup",
+      "MT-DUCT:View Style",
+      "MT-DUCT:Tagging",
+      "MT-DUCT:Admin"
+    ],
+    "ShowStratusClosePrompt": true
+  },
   "ahebert": {
     "Expiration": "2026-12-31T00:00:00",
     "Tabs": [
