@@ -28,6 +28,7 @@
       "MT-DUCT:View Style",
       "MT-DUCT:Tagging",
       "MT-DUCT:Admin",
+      "MT-SETUP:Import",
       "MT-SETUP:Views"
     ],
     "ShowStratusClosePrompt": true
