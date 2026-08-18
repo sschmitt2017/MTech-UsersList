@@ -3,7 +3,8 @@
     "Expiration": "9999-12-31T23:59:59",
     "Tabs": [
       "PIPE",
-      "DUCT"
+      "DUCT",
+      "SETUP"
     ],
     "Panels": [
       "MT-PIPE:Help",
