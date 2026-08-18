@@ -26,7 +26,8 @@
       "MT-DUCT:Cleanup",
       "MT-DUCT:View Style",
       "MT-DUCT:Tagging",
-      "MT-DUCT:Admin"
+      "MT-DUCT:Admin",
+      "MT-SETUP:Views"
     ],
     "ShowStratusClosePrompt": true
   },
