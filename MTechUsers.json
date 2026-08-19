@@ -37,7 +37,8 @@
     "Expiration": "9999-12-31T23:59:59",
     "Tabs": [
       "PIPE",
-      "DUCT"
+      "DUCT",
+      "SETUP"
     ],
     "Panels": [
       "MT-PIPE:Help",
@@ -60,7 +61,9 @@
       "MT-DUCT:Cleanup",
       "MT-DUCT:View Style",
       "MT-DUCT:Tagging",
-      "MT-DUCT:Admin"
+      "MT-DUCT:Admin",
+      "MT-SETUP:Import",
+      "MT-SETUP:Views"
     ],
     "ShowStratusClosePrompt": true
   },
