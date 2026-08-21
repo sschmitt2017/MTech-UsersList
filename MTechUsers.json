@@ -140,7 +140,7 @@
     "Tabs": [
       "PIPE",
       "DUCT",
-      "Setup"
+      "SETUP"
     ],
     "Panels": [
       "MT-PIPE:Help",
@@ -345,7 +345,7 @@
     "Expiration": "2026-12-31T00:00:00",
     "Tabs": [
       "PIPE",
-      "setup"
+      "SETUP"
     ],
     "Panels": [
       "MT-PIPE:Help",
@@ -534,7 +534,7 @@
     "Tabs": [
       "PIPE",
       "DUCT",
-      "setup"
+      "SETUP"
     ],
     "Panels": [
       "MT-PIPE:Help",
