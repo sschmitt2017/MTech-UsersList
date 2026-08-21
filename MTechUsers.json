@@ -139,7 +139,8 @@
     "Expiration": "2026-12-31T00:00:00",
     "Tabs": [
       "PIPE",
-      "DUCT"
+      "DUCT",
+      "Setup"
     ],
     "Panels": [
       "MT-PIPE:Help",
@@ -343,7 +344,8 @@
   "nathan.zafuto": {
     "Expiration": "2026-12-31T00:00:00",
     "Tabs": [
-      "PIPE"
+      "PIPE",
+      "setup"
     ],
     "Panels": [
       "MT-PIPE:Help",
@@ -531,7 +533,8 @@
     "Expiration": "2026-12-31T00:00:00",
     "Tabs": [
       "PIPE",
-      "DUCT"
+      "DUCT",
+      "setup"
     ],
     "Panels": [
       "MT-PIPE:Help",
