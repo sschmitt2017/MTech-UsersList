@@ -157,7 +157,10 @@
       "MT-DUCT:Cleanup",
       "MT-DUCT:View Style",
       "MT-DUCT:Tagging",
-      "MT-DUCT:Admin"
+      "MT-DUCT:Admin",
+      "MT-SETUP:Import",
+      "MT-SETUP:Views",
+      "MT-SETUP:Sheets"
     ],
     "ShowStratusClosePrompt": true
   },
@@ -350,7 +353,10 @@
       "MT-PIPE:View Style",
       "MT-PIPE:Elevations",
       "MT-PIPE:Spacing",
-      "MT-PIPE:Admin"
+      "MT-PIPE:Admin",
+      "MT-SETUP:Import",
+      "MT-SETUP:Views",
+      "MT-SETUP:Sheets"
     ],
     "ShowStratusClosePrompt": true
   },
@@ -543,7 +549,10 @@
       "MT-DUCT:Cleanup",
       "MT-DUCT:View Style",
       "MT-DUCT:Tagging",
-      "MT-DUCT:Admin"
+      "MT-DUCT:Admin",
+      "MT-SETUP:Import",
+      "MT-SETUP:Views",
+      "MT-SETUP:Sheets"
     ],
     "ShowStratusClosePrompt": true
   },
