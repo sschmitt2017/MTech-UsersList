@@ -1,12 +1,12 @@
 {
   "SSchmitt": {
-    "Expiration": "9999-12-31T23:59:59",
-    "Tabs": [
-      "PIPE",
-      "DUCT",
-      "SETUP"
-    ],
-    "Panels": [
+  "Expiration": "9999-12-31T23:59:59",
+  "Tabs": [
+    "PIPE",
+    "DUCT",
+    "SETUP"
+  ],
+  "Panels": [
     "MT-PIPE:Help",
     "MT-PIPE:Export Tools",
     "MT-PIPE:NWC Tools",
@@ -31,18 +31,19 @@
     "MT-DUCT:Admin",
     "MT-SETUP:Import",
     "MT-SETUP:Views",
-    "MT-SETUP:Sheets"
+    "MT-SETUP:Sheets",
+    "MT-SETUP:Annotations"
   ],
-    "ShowStratusClosePrompt": true
-  },
-  "17083": {
-    "Expiration": "9999-12-31T23:59:59",
-    "Tabs": [
-      "PIPE",
-      "DUCT",
-      "SETUP"
-    ],
-    "Panels": [
+  "ShowStratusClosePrompt": true
+},
+"17083": {
+  "Expiration": "9999-12-31T23:59:59",
+  "Tabs": [
+    "PIPE",
+    "DUCT",
+    "SETUP"
+  ],
+  "Panels": [
     "MT-PIPE:Help",
     "MT-PIPE:Export Tools",
     "MT-PIPE:NWC Tools",
@@ -67,51 +68,19 @@
     "MT-DUCT:Admin",
     "MT-SETUP:Import",
     "MT-SETUP:Views",
-    "MT-SETUP:Sheets"
-],
-    "ShowStratusClosePrompt": true
-  },
-  "Monar": {
-    "Expiration": "9999-12-31T23:59:59",
-    "Tabs": [
-      "PIPE",
-      "DUCT"
-    ],
-    "Panels": [
-    "MT-PIPE:Help",
-    "MT-PIPE:Export Tools",
-    "MT-PIPE:NWC Tools",
-    "MT-PIPE:Cleanup",
-    "MT-PIPE:View Style",
-    "MT-PIPE:Elevations",
-    "MT-PIPE:Elbow Directions",
-    "MT-PIPE:Quick Modeling",
-    "MT-PIPE:Place Sleeves",
-    "MT-PIPE:Spacing",
-    "MT-PIPE:Tagging",
-    "MT-PIPE:Admin",
-    "MT-PIPE:Stratus",
-    "MT-DUCT:Help",
-    "MT-DUCT:Export Tools",
-    "MT-DUCT:NWC Tools",
-    "MT-DUCT:Cleanup",
-    "MT-DUCT:View Style",
-    "MT-DUCT:Quick Model",
-    "MT-DUCT:Tagging",
-    "MT-DUCT:Admin",
-    "MT-SETUP:Import",
-    "MT-SETUP:Views",
-    "MT-SETUP:Sheets"
+    "MT-SETUP:Sheets",
+    "MT-SETUP:Annotations"
   ],
-    "ShowStratusClosePrompt": false
-  },
-  "rschm": {
-    "Expiration": "9999-12-31T23:59:59",
-    "Tabs": [
-      "PIPE",
-      "DUCT"
-    ],
-    "Panels": [
+  "ShowStratusClosePrompt": true
+},
+"Monar": {
+  "Expiration": "9999-12-31T23:59:59",
+  "Tabs": [
+    "PIPE",
+    "DUCT",
+    "SETUP"
+  ],
+  "Panels": [
     "MT-PIPE:Help",
     "MT-PIPE:Export Tools",
     "MT-PIPE:NWC Tools",
@@ -125,6 +94,7 @@
     "MT-PIPE:Tagging",
     "MT-PIPE:Admin",
     "MT-PIPE:Stratus",
+    "MT-PIPE:AdminSS",
     "MT-DUCT:Help",
     "MT-DUCT:Export Tools",
     "MT-DUCT:NWC Tools",
@@ -135,7 +105,45 @@
     "MT-DUCT:Admin",
     "MT-SETUP:Import",
     "MT-SETUP:Views",
-    "MT-SETUP:Sheets"
+    "MT-SETUP:Sheets",
+    "MT-SETUP:Annotations"
+  ],
+  "ShowStratusClosePrompt": false
+},
+"rschm": {
+  "Expiration": "9999-12-31T23:59:59",
+  "Tabs": [
+    "PIPE",
+    "DUCT",
+    "SETUP"
+  ],
+  "Panels": [
+    "MT-PIPE:Help",
+    "MT-PIPE:Export Tools",
+    "MT-PIPE:NWC Tools",
+    "MT-PIPE:Cleanup",
+    "MT-PIPE:View Style",
+    "MT-PIPE:Elevations",
+    "MT-PIPE:Elbow Directions",
+    "MT-PIPE:Quick Modeling",
+    "MT-PIPE:Place Sleeves",
+    "MT-PIPE:Spacing",
+    "MT-PIPE:Tagging",
+    "MT-PIPE:Admin",
+    "MT-PIPE:Stratus",
+    "MT-PIPE:AdminSS",
+    "MT-DUCT:Help",
+    "MT-DUCT:Export Tools",
+    "MT-DUCT:NWC Tools",
+    "MT-DUCT:Cleanup",
+    "MT-DUCT:View Style",
+    "MT-DUCT:Quick Model",
+    "MT-DUCT:Tagging",
+    "MT-DUCT:Admin",
+    "MT-SETUP:Import",
+    "MT-SETUP:Views",
+    "MT-SETUP:Sheets",
+    "MT-SETUP:Annotations"
   ],
     "ShowStratusClosePrompt": false
   },
