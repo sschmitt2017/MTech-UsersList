@@ -32,7 +32,8 @@
     "MT-SETUP:Import",
     "MT-SETUP:Views",
     "MT-SETUP:Sheets",
-    "MT-SETUP:Annotations"
+    "MT-SETUP:Annotations",
+    "MT-SETUP:Tag ALL"
   ],
   "ShowStratusClosePrompt": true
 },
@@ -69,7 +70,8 @@
     "MT-SETUP:Import",
     "MT-SETUP:Views",
     "MT-SETUP:Sheets",
-    "MT-SETUP:Annotations"
+    "MT-SETUP:Annotations",
+    "MT-SETUP:Tag ALL"
   ],
   "ShowStratusClosePrompt": true
 },
@@ -106,7 +108,8 @@
     "MT-SETUP:Import",
     "MT-SETUP:Views",
     "MT-SETUP:Sheets",
-    "MT-SETUP:Annotations"
+    "MT-SETUP:Annotations",
+    "MT-SETUP:Tag ALL"
   ],
   "ShowStratusClosePrompt": false
 },
@@ -143,7 +146,8 @@
     "MT-SETUP:Import",
     "MT-SETUP:Views",
     "MT-SETUP:Sheets",
-    "MT-SETUP:Annotations"
+    "MT-SETUP:Annotations",
+    "MT-SETUP:Tag ALL"
   ],
     "ShowStratusClosePrompt": false
   },
