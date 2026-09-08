@@ -604,6 +604,29 @@
     ],
     "ShowStratusClosePrompt": false
   },
+  "ansel": {
+    "Expiration": "2027-01-01T01:01:01",
+    "Tabs": [
+      "PIPE",
+      "DUCT"
+    ],
+    "Panels": [
+      "MT-PIPE:Help",
+      "MT-PIPE:Export Tools",
+      "MT-PIPE:Cleanup",
+      "MT-PIPE:View Style",
+      "MT-PIPE:Elevations",
+      "MT-PIPE:Spacing",
+      "MT-PIPE:Admin",
+      "MT-DUCT:Help",
+      "MT-DUCT:Export Tools",
+      "MT-DUCT:Cleanup",
+      "MT-DUCT:View Style",
+      "MT-DUCT:Tagging",
+      "MT-DUCT:Admin"
+    ],
+    "ShowStratusClosePrompt": false
+  },
   "Alien": {
     "Expiration": "2027-01-01T01:01:01",
     "Tabs": [
