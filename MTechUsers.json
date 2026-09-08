@@ -398,14 +398,18 @@
       "PIPE"
     ],
     "Panels": [
-      "MT-PIPE:Help",
-      "MT-PIPE:Export Tools",
-      "MT-PIPE:NWC Tools",
-      "MT-PIPE:Cleanup",
-      "MT-PIPE:View Style",
-      "MT-PIPE:Elevations",
-      "MT-PIPE:Spacing",
-      "MT-PIPE:Admin"
+    "MT-PIPE:Help",
+    "MT-PIPE:Export Tools",
+    "MT-PIPE:NWC Tools",
+    "MT-PIPE:Cleanup",
+    "MT-PIPE:View Style",
+    "MT-PIPE:Elevations",
+    "MT-PIPE:Quick Modeling",
+    "MT-PIPE:Hangers",
+    "MT-PIPE:Spacing",
+    "MT-PIPE:Tagging",
+    "MT-PIPE:Admin",
+    "MT-PIPE:Stratus",
     ],
     "ShowStratusClosePrompt": true
   },
