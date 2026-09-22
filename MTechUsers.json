@@ -37,7 +37,7 @@
       "MT-SETUP:Annotations",
       "MT-SETUP:Tag ALL"
     ],
-    "ShowStratusClosePrompt": true
+    "ShowStratusClosePrompt": false
   },
   "17083": {
     "Expiration": "9999-12-31T23:59:59",
@@ -77,7 +77,7 @@
       "MT-SETUP:Annotations",
       "MT-SETUP:Tag ALL"
     ],
-    "ShowStratusClosePrompt": true
+    "ShowStratusClosePrompt": false
   },
   "Monar": {
     "Expiration": "9999-12-31T23:59:59",
@@ -418,7 +418,7 @@
       "MT-PIPE:Spacing",
       "MT-PIPE:Admin"
     ],
-    "ShowStratusClosePrompt": true
+    "ShowStratusClosePrompt": false
   },
   "Diondre.Tanner": {
     "Expiration": "2026-12-31T00:00:00",
