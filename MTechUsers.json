@@ -55,7 +55,6 @@
       "MT-PIPE:View Style",
       "MT-PIPE:Elevations",
       "MT-PIPE:Quick Modeling",
-      "MT-PIPE:Special",
       "MT-PIPE:Hangers",
       "MT-PIPE:Place Sleeves",
       "MT-PIPE:Spacing",
@@ -258,6 +257,7 @@
       "MT-PIPE:Cleanup",
       "MT-PIPE:View Style",
       "MT-PIPE:Elevations",
+      "MT-PIPE:Quick Modeling",
       "MT-PIPE:Spacing",
       "MT-PIPE:Admin",
       "MT-DUCT:Help",
@@ -285,6 +285,7 @@
       "MT-PIPE:Cleanup",
       "MT-PIPE:View Style",
       "MT-PIPE:Elevations",
+      "MT-PIPE:Quick Modeling",
       "MT-PIPE:Spacing",
       "MT-PIPE:Admin",
       "MT-DUCT:Help",
@@ -312,6 +313,7 @@
       "MT-PIPE:View Style",
       "MT-PIPE:Elevations",
       "MT-PIPE:Quick Modeling",
+      "MT-PIPE:Quick Modeling",
       "MT-PIPE:Spacing",
       "MT-PIPE:Admin"
     ],
@@ -330,6 +332,7 @@
       "MT-PIPE:View Style",
       "MT-PIPE:Elevations",
       "MT-PIPE:Quick Modeling",
+      "MT-PIPE:Quick Modeling",
       "MT-PIPE:Spacing",
       "MT-PIPE:Admin"
     ],
@@ -347,6 +350,7 @@
       "MT-PIPE:Cleanup",
       "MT-PIPE:View Style",
       "MT-PIPE:Elevations",
+      "MT-PIPE:Quick Modeling",
       "MT-PIPE:Spacing",
       "MT-PIPE:Admin"
     ],
@@ -365,6 +369,7 @@
       "MT-PIPE:Cleanup",
       "MT-PIPE:View Style",
       "MT-PIPE:Elevations",
+      "MT-PIPE:Quick Modeling",
       "MT-PIPE:Spacing",
       "MT-PIPE:Admin",
       "MT-SETUP:Import",
@@ -385,6 +390,7 @@
       "MT-PIPE:Cleanup",
       "MT-PIPE:View Style",
       "MT-PIPE:Elevations",
+      "MT-PIPE:Quick Modeling",
       "MT-PIPE:Spacing",
       "MT-PIPE:Admin"
     ],
@@ -402,6 +408,7 @@
       "MT-PIPE:Cleanup",
       "MT-PIPE:View Style",
       "MT-PIPE:Elevations",
+      "MT-PIPE:Quick Modeling",
       "MT-PIPE:Spacing",
       "MT-PIPE:Admin"
     ],
@@ -419,6 +426,7 @@
       "MT-PIPE:Cleanup",
       "MT-PIPE:View Style",
       "MT-PIPE:Elevations",
+      "MT-PIPE:Quick Modeling",
       "MT-PIPE:Spacing",
       "MT-PIPE:Admin"
     ],
@@ -436,6 +444,7 @@
       "MT-PIPE:Cleanup",
       "MT-PIPE:View Style",
       "MT-PIPE:Elevations",
+      "MT-PIPE:Quick Modeling",
       "MT-PIPE:Spacing",
       "MT-PIPE:Admin"
     ],
@@ -453,6 +462,7 @@
       "MT-PIPE:Cleanup",
       "MT-PIPE:View Style",
       "MT-PIPE:Elevations",
+      "MT-PIPE:Quick Modeling",
       "MT-PIPE:Spacing",
       "MT-PIPE:Admin"
     ],
@@ -542,6 +552,7 @@
       "MT-PIPE:Cleanup",
       "MT-PIPE:View Style",
       "MT-PIPE:Elevations",
+      "MT-PIPE:Quick Modeling",
       "MT-PIPE:Spacing",
       "MT-PIPE:Admin"
     ],
@@ -561,6 +572,7 @@
       "MT-PIPE:Cleanup",
       "MT-PIPE:View Style",
       "MT-PIPE:Elevations",
+      "MT-PIPE:Quick Modeling",
       "MT-PIPE:Spacing",
       "MT-PIPE:Admin",
       "MT-PIPE:Stratus",
@@ -591,6 +603,7 @@
       "MT-PIPE:Cleanup",
       "MT-PIPE:View Style",
       "MT-PIPE:Elevations",
+      "MT-PIPE:Quick Modeling",
       "MT-PIPE:Spacing",
       "MT-PIPE:Admin"
     ],
@@ -616,6 +629,7 @@
       "MT-PIPE:Cleanup",
       "MT-PIPE:View Style",
       "MT-PIPE:Elevations",
+      "MT-PIPE:Quick Modeling",
       "MT-PIPE:Spacing",
       "MT-PIPE:Admin",
       "MT-DUCT:Help",
@@ -642,6 +656,7 @@
       "MT-PIPE:Cleanup",
       "MT-PIPE:View Style",
       "MT-PIPE:Elevations",
+      "MT-PIPE:Quick Modeling",
       "MT-PIPE:Spacing",
       "MT-PIPE:Admin",
       "MT-DUCT:Help",
