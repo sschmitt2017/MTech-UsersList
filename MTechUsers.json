@@ -306,7 +306,8 @@
   "jason.huddleston": {
     "Expiration": "2026-12-31T00:00:00",
     "Tabs": [
-      "PIPE"
+      "PIPE",
+      "SETUP"
     ],
     "Panels": [
       "MT-PIPE:Help",
@@ -318,7 +319,10 @@
       "MT-PIPE:Quick Modeling",
       "MT-PIPE:Quick Modeling",
       "MT-PIPE:Spacing",
-      "MT-PIPE:Admin"
+      "MT-PIPE:Admin",
+      "MT-SETUP:Import",
+      "MT-SETUP:Views",
+      "MT-SETUP:Sheets",
     ],
     "ShowStratusClosePrompt": true
   },
