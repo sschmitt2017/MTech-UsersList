@@ -539,14 +539,11 @@
     ],
     "Panels": [
       "MT-DUCT:Help",
-      "MT-DUCT:Toggles",
       "MT-DUCT:Export Tools",
       "MT-DUCT:NWC Tools",
       "MT-DUCT:Cleanup",
       "MT-DUCT:View Style",
-      "MT-DUCT:Quick Model",
       "MT-DUCT:Tagging",
-      "MT-DUCT:Admin"
     ],
     "ShowStratusClosePrompt": true
   },
