@@ -37,7 +37,8 @@
       "MT-SETUP:Views",
       "MT-SETUP:Sheets",
       "MT-SETUP:Annotations",
-      "MT-SETUP:Tag ALL"
+      "MT-SETUP:Tag ALL",
+      "MT-SETIP:Parameters"
     ],
     "ShowStratusClosePrompt": false
   },
